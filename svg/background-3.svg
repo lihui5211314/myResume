@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Livello_1" x="0px" y="0px" width="288px" height="390.667px" viewBox="0 0 288 390.667" enable-background="new 0 0 288 390.667" xml:space="preserve">
+<g>
+<defs>
+<rect id="SVGID_1_" x="-308" width="288" height="390.667" />
+</defs>
+<clipPath id="SVGID_2_">
+<use xlink:href="#SVGID_1_" overflow="visible" />
+</clipPath>
+<g clip-path="url(#SVGID_2_)">
+<g>
+<polygon fill="#F39636" points="-455.962,341.694 -84.601,361.299 47.554,456.584    " />
+<polygon fill="#EE7535" points="-84.601,361.299 101.498,432.747 47.554,456.584    " />
+</g>
+<g>
+<polygon fill="#F39636" points="-455.962,341.694 -84.601,361.299 47.554,456.584    " />
+<polygon fill="#EE7535" points="-84.601,361.299 101.498,432.747 47.554,456.584    " />
+</g>
+</g>
+</g>
+<g>
+<rect fill="#FFFFFF" width="288" height="390.667" />
+<g>
+<defs>
+<rect id="SVGID_3_" width="288" height="390.667" />
+</defs>
+<clipPath id="SVGID_4_">
+<use xlink:href="#SVGID_3_" overflow="visible" />
+</clipPath>
+<g clip-path="url(#SVGID_4_)">
+<path fill="#FEE354" d="M379.54,107.951c-4.77,1.863-417.663-94.596-417.663-94.596l-160.645-136.306L379.54,107.951z" />
+<polygon fill="#F39636" points="379.54,107.951 -63.414,-142.689 -198.767,-122.951    " />
+<polygon fill="#EE7535" points="379.54,107.951 116.046,-183.12 -63.414,-142.689    " />
+</g>
+<g clip-path="url(#SVGID_4_)">
+<g>
+<g>
+<path fill="#63C2C0" d="M285.865-16.991c-1.513,3.383-94.926,80.71-94.926,80.71l81.57-12.735L285.865-16.991z" />
+<polygon fill="#2CB7B1" points="285.865,-16.991 342.852,116.222 272.509,50.984      " />
+<polygon fill="#00A295" points="190.939,63.72 342.852,116.222 272.509,50.984      " />
+</g>
+<g>
+<path fill="#63C2C0" d="M285.865-16.991c-1.513,3.383-94.926,80.71-94.926,80.71l81.57-12.735L285.865-16.991z" />
+<polygon fill="#00A295" points="285.865,-16.991 342.852,116.222 272.509,50.984      " />
+<polygon fill="#2CB7B1" points="190.939,63.72 342.852,116.222 272.509,50.984      " />
+</g>
+<g>
+<polygon fill="#2CB7B1" points="286.059,-16.538 246.094,-26.914 190.939,63.72      " />
+<polygon fill="#2CB7B1" points="286.059,-16.538 246.094,-26.914 190.939,63.72      " />
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
