@@ -614,11 +614,11 @@ html{
 }
 .page5 .ground{
     width: 100%;
-    height: 2rem;
+    height: 1.5rem;
     left: 0;
     bottom:0;
     background: #ffdb5b;
-    z-index: 10;
+    /*z-index: 10;*/
 }
 .page5 .circle1,.page5 .circle2,.page5 .circle3,.page5 .circle4,.page5 .circle5{
     width: 4rem;
@@ -633,15 +633,15 @@ html{
 }
 .page5 .circle2{
     left: 1.14rem;
-    top: 1.46rem;
+    top: 1.49rem;
 }
 .page5 .circle3{
     left: 0.94rem;
     top: 1.56rem;
 }
 .page5 .circle4{
-    left: 1.34rem;
-    top: 1.39rem;
+    left: 1.2rem;
+    top: 1.41rem;
 }
 .page5 .circle5{
     left: 1rem;
@@ -675,14 +675,14 @@ html{
     width: 1rem;
     height: 1rem;
     left: 0.72rem;
-    top: 7.5rem;
+    top: 7.3rem;
     background: url("../svg/phone.svg")no-repeat;
 }
 .page5 .email{
     width: 0.9rem;
     height: 0.9rem;
     left: 0.84rem;
-    top: 8.65rem;
+    top: 8.35rem;
     background: url("../svg/emaile.svg")no-repeat;
 }
 .page5 .phoneNum,.page5 .emailNum{
@@ -693,11 +693,11 @@ html{
 }
 .page5 .phoneNum{
     left: 0.3rem;
-    top: 7.82rem;
+    top: 7.6rem;
 }
 .page5 .emailNum{
     left: 1rem;
-    top: 8.84rem;
+    top: 8.54rem;
 }
 #page5 .circle1{
     -webkit-animation: bounceIn 1s linear 0.1s both;
