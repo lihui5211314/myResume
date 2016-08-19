@@ -1,6 +1,4 @@
-/**
- * Created by hui on 2016/8/9.
- */
+
 ~function(desW){
     var winW=document.documentElement.clientWidth;
     var oMain=document.getElementById('main');
@@ -16,7 +14,7 @@
 var sw=new Swiper('.swiper-container',{
     loop:true,
     direction:'vertical',
-    /*--当切换结束的时候我需要给当前展示的这个区域增加对应的ID(page1或者page2),从而实现里面子元素的运动--*/
+
     onSlideChangeEnd:function(swiper){
         //获取总共的slide
         var slideAry=swiper.slides,

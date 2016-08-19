@@ -621,36 +621,36 @@ html{
     /*z-index: 10;*/
 }
 .page5 .circle1,.page5 .circle2,.page5 .circle3,.page5 .circle4,.page5 .circle5{
-    width: 4rem;
-    height: 4rem;
+    width: 3.6rem;
+    height: 3.6rem;
     border: 1px solid #cba775;
     border-radius: 50%;
 }
 .page5 .circle1{
     left: 50%;
-    margin-left:-2rem;
+    margin-left:-1.8rem;
     top: 1.46rem;
 }
 .page5 .circle2{
-    left: 1.14rem;
-    top: 1.49rem;
+    left: 1.34rem;
+    top: 1.52rem;
 }
 .page5 .circle3{
-    left: 0.94rem;
+    left: 1.24rem;
     top: 1.56rem;
 }
 .page5 .circle4{
-    left: 1.2rem;
+    left: 1.29rem;
     top: 1.41rem;
 }
 .page5 .circle5{
-    left: 1rem;
-    top: 1.50rem;
+    left: 1.44rem;
+    top: 1.4rem;
 }
 .page5 .img{
-    width: 3.4rem;
-    height: 3.4rem;
-    left:1.46rem;
+    width: 3rem;
+    height: 3rem;
+    left:1.66rem;
     top:1.8rem;
 
 }
